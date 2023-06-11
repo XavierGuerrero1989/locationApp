@@ -1,7 +1,7 @@
 export default {
-  primary: "#0C8346",
-  secondary: "#329F5B",
-  tertiary: "#0D5D57",
+  primary: "#8c24a1",
+  secondary: "#21179d",
+  tertiary: "#81e5c9",
   background: "#E0F5E8",
   text: "#212121",
   white: "#FFFFFF",
